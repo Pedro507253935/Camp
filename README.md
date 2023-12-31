@@ -1,2 +1,2 @@
-# WizOdd
+#WizardOfOdd
 Code Track
